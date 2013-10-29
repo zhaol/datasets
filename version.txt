@@ -1,4 +1,4 @@
-receiver.1.0.1
+trip.1.0.1
 
-Receiver Lab:
-Find best signal
+Road Trip Lab:
+Find shortest path
